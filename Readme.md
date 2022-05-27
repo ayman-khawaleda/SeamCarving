@@ -17,14 +17,14 @@ ___
 ### Screenshots
 #### Main Window
 
-![Main](ScreenShots/Main.png)
-![Lunch](ScreenShots/Lunch.png)
+![Main](ScreenShots/Main1.png)
+![Lunch](ScreenShots/Lunch1.png)
 
 #### All Seams in Last Iteration
-![AllSeams](ScreenShots/AllSeams.png)
+![AllSeams](ScreenShots/AllSeams1.png)
 #### Minimum Seam\s In Last Iteration
-![MiniSeam](ScreenShots/MiniSeam.png)
+![MiniSeam](ScreenShots/MiniSeam1.png)
 #### All Seams That Have Been Removed 
-![HistorySeams](ScreenShots/RemoveSeams.png)
+![HistorySeams](ScreenShots/RemoveSeams1.png)
 #### Energy Map for Image 
-![EnergyMap](ScreenShots/EnergyMap.png)
+![EnergyMap](ScreenShots/EnergyMap1.png)
